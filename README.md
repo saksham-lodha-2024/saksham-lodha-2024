@@ -1,222 +1,231 @@
 <div align="center">
 
-<!-- Spider-Man Swinging Header GIF -->
-<img src="https://media.giphy.com/media/0GHezVTfR0Vzj4sk9R/giphy.gif" width="100%" height="220" alt="Spider-Man Header"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saksham%20Lodha&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Developer%20%E2%80%A2%20Friendly%20Neighbourhood%20Coder&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="header"/>
 
-<!-- Animated Typing Intro -->
+<!-- Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2800&pause=800&color=E62429&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Hey+there%2C+I'm+Saksham+Lodha+%F0%9F%95%B7%EF%B8%8F;Friendly+Neighbourhood+Dev+from+India;Whatever+It+Takes.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=55&lines=Hey+there+%F0%9F%91%8B+I'm+Saksham;Building+things+on+the+web+%E2%9A%A1;B.Tech+CSE+%40+BML+Munjal+University;Whatever+it+takes." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Visitor + Followers + Badges -->
-<img src="https://komarev.com/ghpvc/?username=inflictt&label=VISITORS&color=E62429&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/inflictt?label=FOLLOWERS&style=for-the-badge&color=E62429&labelColor=0D1117" alt="Followers"/>
-<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%2B%20AI-E62429?style=for-the-badge&labelColor=0D1117" alt="Focus"/>
+<!-- Stat badges -->
+<img src="https://komarev.com/ghpvc/?username=saksham-lodha-2024&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/saksham-lodha-2024?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=0D1117" alt="Followers"/>
+<a href="https://inflict.in"><img src="https://img.shields.io/badge/PORTFOLIO-inflict.in-22D3EE?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<div align="center">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
-## <img src="https://media.giphy.com/media/iicDrNGWyIEjS/giphy.gif" width="40px"> &nbsp; WHO AM I? &nbsp; <img src="https://media.giphy.com/media/iicDrNGWyIEjS/giphy.gif" width="40px">
+<img align="right" alt="coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/programmer.gif"/>
 
-</div>
+🎓 &nbsp;Second-year **B.Tech CSE** student at **BML Munjal University** *(Class of 2028)*
 
-<img align="right" alt="Spider-Man Coding" width="360" src="https://i.pinimg.com/originals/b2/4a/7e/b24a7ec4f0c1a29f67fef7f4eb0d2cfa.gif"/>
+🕸️ &nbsp;Full-stack developer who loves turning ideas into **clean, shippable products**
 
-```typescript
-const saksham = {
-  alias       : "inflictt 🕸️",
-  origin      : "India 🇮🇳",
-  role        : "B.Tech CSE @ BML Munjal University",
-  graduation  : 2028,
-  codename    : "Full-Stack + AI Developer",
-  currentMission: [
-    "🔥 Building an AI Cold Email Generator (SaaS)",
-    "🧠 Grinding LeetCode (220+ solved)",
-    "⚡ Shipping Django + React side-quests"
-  ],
-  superpower  : "turning caffeine into clean commits ☕",
-  favSuperhero: ["Spider-Man 🕷️", "Iron Man 🦾", "Doctor Strange 🌀"],
-  lifeMotto   : "With great code comes great responsibility."
-};
-```
+🧠 &nbsp;Currently deep-diving into **AI, LLMs & scalable backend systems**
+
+⚡ &nbsp;Grinding **DSA on LeetCode** — 220+ problems solved with a 75+ day streak
+
+🚀 &nbsp;My personal portfolio is coming soon at **[inflict.in](https://inflict.in)** — *under construction, launching shortly*
+
+💬 &nbsp;Ask me about **Django**, **React**, **Node.js**, or the latest Marvel theory
+
+🦸 &nbsp;Inspired by **Spider-Man** — *"Whatever it takes."*
 
 <br clear="right"/>
 
 ---
 
-<!-- TECH ARSENAL -->
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="28"> &nbsp;Tech Arsenal
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="38"> &nbsp; INFINITY GAUNTLET &nbsp; <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="38">
+#### &nbsp;Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=22D3EE" />
+</p>
 
-### *"Assembling the stones..."* 💎
+#### &nbsp;Backend &amp; Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/DRF-0D1117?style=for-the-badge&logo=django&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=22D3EE" />
+</p>
 
-<br/>
+#### &nbsp;Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" />
+</p>
 
-**⚔️ Languages**
+#### &nbsp;AI / Data
+<p>
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=openai&logoColor=22D3EE" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E62429)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)
-
-**🛡️ Backend & Frameworks**
-
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20&color=0D1117&labelColor=092E20)
-![DRF](https://img.shields.io/badge/DRF-0D1117?style=for-the-badge&logo=django&logoColor=E62429)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
-
-**🕸️ Frontend**
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**🧠 AI / Data**
-
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white)
-
-**🗄️ Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+#### &nbsp;Databases &amp; Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=22D3EE" />
+</p>
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
+## <img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="28"> &nbsp;GitHub Stats
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VIPdgcooFJHd1NLCKF/giphy.gif" width="40"> &nbsp; S.H.I.E.L.D. BATTLE STATS &nbsp; <img src="https://media.giphy.com/media/VIPdgcooFJHd1NLCKF/giphy.gif" width="40">
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=inflictt&show_icons=true&theme=radical&bg_color=0D1117&title_color=E62429&icon_color=E62429&text_color=FFFFFF&border_color=E62429&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=inflictt&theme=radical&background=0D1117&stroke=E62429&ring=E62429&fire=FFD43B&currStreakLabel=E62429&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border=E62429"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inflictt&layout=compact&theme=radical&bg_color=0D1117&title_color=E62429&text_color=FFFFFF&border_color=E62429&langs_count=8" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=saksham-lodha-2024&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=1F6FEB&hide_border=false&include_all_commits=true&count_private=true" alt="Stats"/>
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-lodha-2024&theme=tokyonight&background=0D1117&stroke=1F6FEB&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF&border=1F6FEB" alt="Streak"/>
 
 <br/><br/>
 
-<!-- Trophy Wall -->
-<img src="https://github-profile-trophy.vercel.app/?username=inflictt&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=10&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,MultipleLang" alt="Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-lodha-2024&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=1F6FEB&langs_count=8" alt="Top Languages" width="420"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=saksham-lodha-2024&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,MultipleLang" alt="Trophies"/>
 
 </div>
 
 ---
 
-<!-- LEETCODE STATS -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;LeetCode Warrior
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/sULKEgDMX8pIA/giphy.gif" width="40"> &nbsp; SPIDEY-SENSE :: LEETCODE &nbsp; <img src="https://media.giphy.com/media/sULKEgDMX8pIA/giphy.gif" width="40">
-
-### *"220+ webs shot. Streak still swinging."* 🕸️
+> *220+ problems solved • 75+ day streak • still climbing*
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/inflictt?theme=dark&font=Orbitron&ext=heatmap&border=2&radius=20" alt="LeetCode Stats" width="500"/>
+<a href="https://leetcode.com/u/inflictt/">
+  <img src="https://leetcard.jacoblin.cool/inflictt?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2&radius=18" alt="LeetCode Stats" width="500"/>
+</a>
 
 </div>
 
 ---
 
-<!-- PROJECTS -->
-<div align="center">
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Featured Projects
 
-## <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="40"> &nbsp; MISSION LOG &nbsp; <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="40">
-
-</div>
-
-> ### 🕷️ **AI Cold Email Generator** — `[IN PROGRESS]`
-> A Django-based **SaaS** automating B2B cold email workflows with dynamic LLM prompting (Groq / OpenAI).
-> `Python` • `Django` • `LLM APIs` • `HTML/CSS`
-
-> ### 🦾 **ATS-Ranker** — *AI-Powered Resume Screener*
-> Automated NLP tool that ranks resumes against job descriptions. **Boosted candidate match accuracy by 22%** via a custom DRF REST API.
-> `Python 3.11` • `Django 5.2` • `DRF` • `NLP` • `SQLite`
-
-> ### 🌀 **InternNow** — *Internship Discovery Aggregator*
-> Static aggregator for **50+ global internships** with advanced filtering, Dark Mode, and EmailJS-powered serverless feedback.
-> `JavaScript ES6+` • `Clearbit API` • `EmailJS`
-
-> ### 🦸 **SneakPeak** — *Full-Stack Sneaker Marketplace*
-> Scalable price comparison marketplace across **50+ verified vendors** with a persistent cart that cut data redundancy by **15%**.
-> `Node.js` • `Express` • `MongoDB` • `bcryptjs`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🦾 ATS-Ranker</h3>
+      <p align="center"><em>AI-Powered Resume Screening Tool</em></p>
+      <p>An automated NLP tool that ranks resumes against specific job descriptions. Architected a RESTful API with DRF that boosted candidate match accuracy by <b>22%</b>, with a Django Template interface for PDF uploads and real-time scoring feedback.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/-DRF-0D1117?style=flat-square&logo=django&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/-NLP-0D1117?style=flat-square&logo=openai&logoColor=22D3EE"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌀 InternNow</h3>
+      <p align="center"><em>Internship Discovery Aggregator</em></p>
+      <p>A static aggregator for <b>50+ global internships</b> with advanced discovery filtering. Built an interactive UI with Dark Mode and integrated EmailJS for serverless feedback collection — zero backend required.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/-Clearbit-0D1117?style=flat-square&logo=clearbit&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/-EmailJS-0D1117?style=flat-square&logo=minutemailer&logoColor=22D3EE"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👟 SneakPeak</h3>
+      <p align="center"><em>Full-Stack Sneaker Marketplace</em></p>
+      <p>A scalable marketplace for price comparison across <b>50+ verified vendors</b>. Secured auth with bcryptjs hitting a 99.9% session persistence rate, and designed a persistent cart with CRUD logic that cut data redundancy by <b>15%</b>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=22D3EE"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 inflict.in</h3>
+      <p align="center"><em>Personal Portfolio &mdash; Coming Soon</em></p>
+      <p>My personal portfolio is <b>under construction</b> and launching shortly at <a href="https://inflict.in"><b>inflict.in</b></a>. It'll showcase everything I'm building, writing, and experimenting with — polished, animated, and fully responsive. Stay tuned. 🚀</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Status-0D1117?style=flat-square&logo=statuspage&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/Under%20Construction-22D3EE?style=flat-square&labelColor=0D1117"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ACHIEVEMENTS -->
-<div align="center">
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Achievements
 
-## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40"> &nbsp; HALL OF FAME &nbsp; <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40">
-
-</div>
-
-- 🥉 **3rd Place — TechStorm Hackathon** *(Team Leader)* · Built *Ashrafi*, a finance platform for expense tracking
-- 🎓 **Academic Honor (I2E):** *SneakPeak* featured in the **2025–26 I&E Compendium** as an official study resource
-- 🕸️ **LeetCode Warrior:** 220+ problems solved · 75+ day streak · still swinging
+- 🥉 &nbsp;**3rd Place — TechStorm Hackathon** *(Team Leader)* · led a team to build **Ashrafi**, a finance platform for expense tracking
+- 🎓 &nbsp;**Academic Honor (I2E)** · *SneakPeak* was selected as a study resource for the **2025–26 I&E Compendium**
+- 🕸️ &nbsp;**LeetCode Proficiency** · **220+** DSA problems solved with a **75+ day** streak
+- 💼 &nbsp;**Deloitte Australia (Forage)** · completed the Technology Job Simulation — data modelling with Python
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;Contribution Graph
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="40"> &nbsp; CONTRIBUTION MULTIVERSE &nbsp; <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="40">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inflictt&bg_color=0D1117&color=E62429&line=E62429&point=FFFFFF&area=true&hide_border=false&custom_title=inflictt's%20Contribution%20Graph" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-lodha-2024&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%"/>
 
 <br/>
 
-<!-- Snake eating contributions -->
-<img src="https://raw.githubusercontent.com/inflictt/inflictt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
 ---
 
-<!-- CONNECT -->
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> &nbsp;Let's Connect
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"> &nbsp; JOIN THE AVENGERS &nbsp; <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38">
-
-<a href="https://www.linkedin.com/in/inflictt/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" height="42"/>
+<a href="https://inflict.in">
+  <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=22D3EE" height="40"/>
 </a>
-<a href="https://leetcode.com/inflictt/">
-  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" height="42"/>
+<a href="https://www.linkedin.com/in/saksham-lodha/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=E62429&labelColor=0D1117" height="42"/>
+<a href="https://leetcode.com/u/inflictt/">
+  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
-<a href="https://github.com/inflictt">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" height="42"/>
+<a href="mailto:sakshamlodha.work@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117" height="40"/>
+</a>
+<a href="https://github.com/saksham-lodha-2024">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
 
 <br/><br/>
 
-### 💬 *"I can do this all day."* — Captain Code
+### 💬 *"Whatever it takes."*
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=120&section=footer&text=Thanks%20for%20swinging%20by!&fontColor=FFFFFF&fontSize=30&fontAlignY=75&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&text=Thanks%20for%20swinging%20by!&fontColor=ffffff&fontSize=22&fontAlignY=75&animation=twinkling" width="100%"/>
 
 </div>
