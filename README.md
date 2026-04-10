@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saksham%20Lodha&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Developer%20%E2%80%A2%20Friendly%20Neighbourhood%20Coder&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="header"/>
-
-<!-- Typing Intro -->
+<!-- Typing Hero -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=55&lines=Hey+there+%F0%9F%91%8B+I'm+Saksham;Building+things+on+the+web+%E2%9A%A1;B.Tech+CSE+%40+BML+Munjal+University;Whatever+it+takes." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=Hey+%F0%9F%91%8B+I'm+Saksham+Lodha;Full-Stack+%26+AI+Developer;B.Tech+CSE+%40+BML+Munjal+University" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,35 +10,40 @@
 <!-- Stat badges -->
 <img src="https://komarev.com/ghpvc/?username=saksham-lodha-2024&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/saksham-lodha-2024?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=0D1117" alt="Followers"/>
-<a href="https://inflict.in"><img src="https://img.shields.io/badge/PORTFOLIO-inflict.in-22D3EE?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="https://inflict.in"><img src="https://img.shields.io/badge/PORTFOLIO-inflict.in-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Portfolio"/></a>
+
+<br/><br/>
+
+> ### *"Murkho se ladna, ye gyaan ke khilaaf."*
+> — **Raftaar**, *Proud* · *Mr. Nair*
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
+## 🧠 &nbsp;About Me
 
 <img align="right" alt="coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/programmer.gif"/>
 
 🎓 &nbsp;Second-year **B.Tech CSE** student at **BML Munjal University** *(Class of 2028)*
 
-🕸️ &nbsp;Full-stack developer who loves turning ideas into **clean, shippable products**
+💻 &nbsp;Full-stack developer who loves turning ideas into **clean, shippable products**
 
-🧠 &nbsp;Currently deep-diving into **AI, LLMs & scalable backend systems**
+🧪 &nbsp;Currently deep-diving into **AI, LLMs & scalable backend systems**
 
 ⚡ &nbsp;Grinding **DSA on LeetCode** — 220+ problems solved with a 75+ day streak
 
 🚀 &nbsp;My personal portfolio is coming soon at **[inflict.in](https://inflict.in)** — *under construction, launching shortly*
 
-💬 &nbsp;Ask me about **Django**, **React**, **Node.js**, or the latest Marvel theory
+💬 &nbsp;Ask me about **Django**, **React**, **Node.js** or system design
 
-🦸 &nbsp;Inspired by **Spider-Man** — *"Whatever it takes."*
+🎧 &nbsp;Coding fuel: **Raftaar on repeat** — bars over everything
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="28"> &nbsp;Tech Arsenal
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
@@ -90,7 +92,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="28"> &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -110,7 +112,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;LeetCode Warrior
+## ⚔️ &nbsp;LeetCode
 
 <div align="center">
 
@@ -118,15 +120,16 @@
 
 <br/>
 
-<a href="https://leetcode.com/u/inflictt/">
-  <img src="https://leetcard.jacoblin.cool/inflictt?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2&radius=18" alt="LeetCode Stats" width="500"/>
+<!-- ⚠️ IMPORTANT: Replace YOUR_LEETCODE_USERNAME below with your actual LeetCode handle -->
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2&radius=18" alt="LeetCode Stats" width="500"/>
 </a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <table>
   <tr>
@@ -166,10 +169,10 @@
     <td width="50%" valign="top">
       <h3 align="center">🌐 inflict.in</h3>
       <p align="center"><em>Personal Portfolio &mdash; Coming Soon</em></p>
-      <p>My personal portfolio is <b>under construction</b> and launching shortly at <a href="https://inflict.in"><b>inflict.in</b></a>. It'll showcase everything I'm building, writing, and experimenting with — polished, animated, and fully responsive. Stay tuned. 🚀</p>
+      <p>My personal portfolio is <b>under construction</b> and launching shortly at <a href="https://inflict.in"><b>inflict.in</b></a>. It'll showcase everything I'm building, writing, and experimenting with — polished, animated, and fully responsive. Stay tuned.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Status-0D1117?style=flat-square&logo=statuspage&logoColor=22D3EE"/>
-        <img src="https://img.shields.io/badge/Under%20Construction-22D3EE?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Under%20Construction-0D1117?style=flat-square&logoColor=22D3EE&labelColor=0D1117&color=22D3EE"/>
       </p>
     </td>
   </tr>
@@ -177,16 +180,15 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Achievements
+## 🏆 &nbsp;Achievements
 
 - 🥉 &nbsp;**3rd Place — TechStorm Hackathon** *(Team Leader)* · led a team to build **Ashrafi**, a finance platform for expense tracking
 - 🎓 &nbsp;**Academic Honor (I2E)** · *SneakPeak* was selected as a study resource for the **2025–26 I&E Compendium**
-- 🕸️ &nbsp;**LeetCode Proficiency** · **220+** DSA problems solved with a **75+ day** streak
-- 💼 &nbsp;**Deloitte Australia (Forage)** · completed the Technology Job Simulation — data modelling with Python
+- ⚡ &nbsp;**LeetCode Proficiency** · **220+** DSA problems solved with a **75+ day** streak
 
 ---
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;Contribution Graph
+## 📈 &nbsp;Contribution Graph
 
 <div align="center">
 
@@ -200,20 +202,20 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> &nbsp;Let's Connect
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
 <a href="https://inflict.in">
-  <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=22D3EE" height="40"/>
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/saksham-lodha/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
-<a href="https://leetcode.com/u/inflictt/">
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
   <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
-<a href="mailto:sakshamlodha.work@gmail.com">
+<a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
 <a href="https://github.com/saksham-lodha-2024">
@@ -222,10 +224,10 @@
 
 <br/><br/>
 
-### 💬 *"Whatever it takes."*
+### *"Bars over everything."* 🎧
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&text=Thanks%20for%20swinging%20by!&fontColor=ffffff&fontSize=22&fontAlignY=75&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:22D3EE&height=110&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&fontAlignY=75&animation=twinkling" width="100%"/>
 
 </div>
