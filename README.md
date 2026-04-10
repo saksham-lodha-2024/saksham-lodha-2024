@@ -2,20 +2,20 @@
 
 <!-- Typing Hero -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=Hey+%F0%9F%91%8B+I'm+Saksham+Lodha;Full-Stack+%26+AI+Developer;B.Tech+CSE+%40+BML+Munjal+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=Hey+%F0%9F%91%8B+I'm+Saksham+Lodha;Full-Stack+%26+AI+Developer;B.Tech+CSE+%40+BML+Munjal+University" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Stat badges -->
-<img src="https://komarev.com/ghpvc/?username=saksham-lodha-2024&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/saksham-lodha-2024?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=0D1117" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=inflictt&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/inflictt?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=0D1117" alt="Followers"/>
 <a href="https://inflict.in"><img src="https://img.shields.io/badge/PORTFOLIO-inflict.in-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Portfolio"/></a>
 
 <br/><br/>
 
 > ### *"Murkho se ladna, ye gyaan ke khilaaf."*
-> — **Raftaar**, *Proud* · *Mr. Nair*
+> — **Raftaar**, *Proud · Mr. Nair*
 
 </div>
 
@@ -37,7 +37,7 @@
 
 💬 &nbsp;Ask me about **Django**, **React**, **Node.js** or system design
 
-🎧 &nbsp;Coding fuel: **Raftaar on repeat** — bars over everything
+🎧 &nbsp;Coding fuel: **Raftaar & King on repeat** — bars over everything
 
 <br clear="right"/>
 
@@ -96,17 +96,17 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=saksham-lodha-2024&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=1F6FEB&hide_border=false&include_all_commits=true&count_private=true" alt="Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=inflictt&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=1F6FEB&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Stats"/>
 &nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-lodha-2024&theme=tokyonight&background=0D1117&stroke=1F6FEB&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF&border=1F6FEB" alt="Streak"/>
+<img height="175" src="https://streak-stats.demolab.com?user=inflictt&theme=tokyonight&background=0D1117&stroke=1F6FEB&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF&border=1F6FEB" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-lodha-2024&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=1F6FEB&langs_count=8" alt="Top Languages" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inflictt&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=1F6FEB&langs_count=8&cache_seconds=1800" alt="Top Languages" width="420"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=saksham-lodha-2024&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,MultipleLang" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=inflictt&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,MultipleLang" alt="Trophies"/>
 
 </div>
 
@@ -120,9 +120,8 @@
 
 <br/>
 
-<!-- ⚠️ IMPORTANT: Replace YOUR_LEETCODE_USERNAME below with your actual LeetCode handle -->
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2&radius=18" alt="LeetCode Stats" width="500"/>
+<a href="https://leetcode.com/u/Saksham_lodha/">
+  <img src="https://leetcard.jacoblin.cool/Saksham_lodha?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2&radius=18" alt="LeetCode Stats" width="500"/>
 </a>
 
 </div>
@@ -192,7 +191,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-lodha-2024&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inflictt&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%"/>
 
 <br/>
 
@@ -212,19 +211,20 @@
 <a href="https://www.linkedin.com/in/saksham-lodha/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/Saksham_lodha/">
   <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
 <a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
-<a href="https://github.com/saksham-lodha-2024">
+<a href="https://github.com/inflictt">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0D1117" height="40"/>
 </a>
 
 <br/><br/>
 
-### *"Bars over everything."* 🎧
+### 🎧 &nbsp;*"Maan meri jaan."*
+**— King**, *The Carnival*
 
 <br/>
 
